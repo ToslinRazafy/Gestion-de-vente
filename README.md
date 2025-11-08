@@ -1,7 +1,3 @@
-Excellent 💪 voici un **README clair, complet et professionnel** adapté à ton **projet Gestion de Vente**, en reprenant la structure d’un vrai projet Laravel **full stack** (backend Laravel + frontend intégré) avec **deux interfaces distinctes : une pour l’administrateur et une pour le vendeur** (plateforme de vente).
-
----
-
 # 🛒 Gestion de Vente
 
 <p align="center">
@@ -29,7 +25,7 @@ Elle permet la gestion centralisée des ventes, produits, catégories, clients e
 
 Ce projet est conçu pour être **modulaire**, **sécurisé** et **rapide**, adapté à une utilisation en entreprise (gestion de stock, ventes quotidiennes, suivi des performances).
 
----
+---     
 
 ## ⚙️ Stack technique
 
@@ -141,4 +137,4 @@ php artisan optimize:clear
 ## 🧑‍💻 Auteur
 
 **Toslin Razafitsotra**
-💼 Développeur Full Stack
+💼 Développeur Full Stack  
